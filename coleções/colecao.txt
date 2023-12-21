@@ -1,0 +1,7 @@
+COLEÇÃO (Collections)
+
+* Representa um conjunto de dados.
+Ex:
+Você vai mudar de casa, e precisa empacotar todos os livros de sua biblioteca pessoal.
+Para facilitar uma busca, caso você precise de um livro antes de organiza-los no novo lar, você escreve
+ao lado de fora da caixa qual o tema dos livros que lá estão guardados. 
