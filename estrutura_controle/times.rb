@@ -10,12 +10,8 @@
 #Oi
 #...
 
-#ex: 2 puts
-4.times do 
-    puts "Oi"
+#exemplo 3 contador puts 
+20.times do |contador|
+    print "#{contador}" # contador do 0 ao 19
 end
-
-#ex: 2 print
-4.times do 
-    print "Oi"
-end
+# 012345678910111213141516171819
