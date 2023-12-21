@@ -1,13 +1,13 @@
 resultado = ''
 
 loop do
-    puts resultado
-puts 'Selecione uma operação: '
-puts '1 - Somar'
-puts '2 - Subtrair'
-puts '3 - Multiplicar'
-puts '4 - Dividir'
-puts '0 - Sair'
+  puts resultado
+  puts 'Selecione uma operação: '
+  puts '1 - Somar'
+  puts '2 - Subtrair'
+  puts '3 - Multiplicar'
+  puts '4 - Dividir'
+  puts '0 - Sair'
 
 opcao = gets.chomp.to_i
 
@@ -44,5 +44,3 @@ else
 end
 system "clear"
 end
-
-
