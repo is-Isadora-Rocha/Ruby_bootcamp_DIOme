@@ -14,3 +14,7 @@ livros = []
 #ACESSAR os elementos da lista = nome[numero]
 # => livros[1..3]
 # => ["Sargento Milicias", "Ubirajara", "Entendendo Algoritmos"]
+
+#PRIMEIRO E ULTIMO
+# => livros.first
+# => livros.last
