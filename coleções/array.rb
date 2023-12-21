@@ -18,3 +18,18 @@ livros = []
 #PRIMEIRO E ULTIMO
 # => livros.first
 # => livros.last
+
+#QUANTIDADE de elementos de um array = nome.count ou nome.length
+# => livros.count
+# => 7
+
+#se o array tiver VAZIO 
+# => livros.empty?
+# => false
+
+#INCLUDE => livros.include?('nome')
+# => livros.include?('Ubirajara')
+# => true
+
+
+
