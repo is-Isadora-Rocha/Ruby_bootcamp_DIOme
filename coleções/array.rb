@@ -1,4 +1,4 @@
-livros = []
+# livros = []
 
 # ADICIONAR um item no array = nome.push('item que queremos colocar')
 # => livros.push('O Idiota de Dostoievski')
