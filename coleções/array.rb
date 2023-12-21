@@ -32,4 +32,16 @@ livros = []
 # => true
 
 
+#DELETAR um elemento = nome.delete_at(numero)
+# => livros.delete_at(0)
+# => "Dom Casmurro"
+
+#DELETAR o ULTIMO elemento
+# => livros.pop
+# => "Vidas Secas"
+
+#DELETAR o PRIMEIRO elemento
+# => livros.shift
+# => "Sargento Milicias"
+
 
