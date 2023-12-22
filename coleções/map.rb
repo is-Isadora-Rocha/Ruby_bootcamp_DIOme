@@ -15,3 +15,11 @@ puts "\nNovo Array: \n#{novo_numeros}"
 
 # Novo Array:
 # [10, 15, 20, 25]
+
+# .map! força que o conteúdo do array original seja alterado.
+numeros.map! do |x|
+    x * 2
+end
+
+puts "\nArray Original (substituída pelo .map!): \n#{numeros}"
+puts ''
