@@ -1,0 +1,15 @@
+RESUMO DA CAMADA DOMÍNIO
+Contém toda a informação sobre o domínio e é considerado o coração do projeto. 
+Aqui é mapeado os objetos e comportamentos do mundo real para o software. 
+
+# DOMÍNIO DE BASE
+ descreve classes fundamentais, estruturais e semânticas. 
+
+#DOMÍNIO DE ARQUITETURA
+ fornece abstrações para a arquitetura de hardware ou software utilizada
+
+#DOMÍNIO DE NEGÓCIO 
+ descreve classes inerentes a uma determinada área do conhecimento
+
+#DOMÍNIO DE APLICAÇÃO
+ descreve classes "cola", que servem para fazer as classes dos demais domínios funcionarem no sistema
