@@ -1,4 +1,5 @@
 # pode ser acessada de qualquer lugar do programa. 
+# uso do prefixo $
 
 class Teste
     def global
