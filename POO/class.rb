@@ -13,4 +13,4 @@ first_user = User.new
 first_user.add('Isadora')
 
 second_user = User.new
-second_user.add ('Paulo')
+second_user.add ("Paulo")
