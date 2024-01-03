@@ -7,4 +7,5 @@ class Loja
     def comprar
         puts "Você comprou o produto #{@produto} pelo valor de #{@preco}"
     end
+    
 end
